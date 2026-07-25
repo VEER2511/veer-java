@@ -1,3 +1,0 @@
-xyz,30,male,gujrat,theft
-veer,18,make,add,theft,closed
-veer,18,male,add,theft
